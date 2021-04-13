@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Ra-Den
   m_EditorClassIdentifier: 
   cardName: Ra-Den, Fallen Keeper of Storms
-  cardDescription: Blah blah
+  cardDescription: At the end of your turn, Summon one Vita Orb and one Anima Orb.
   cardArt: {fileID: 21300000, guid: a2de884f16300e74f9be0828399fedf9, type: 3}
   manaCost: 9
   attack: 4
