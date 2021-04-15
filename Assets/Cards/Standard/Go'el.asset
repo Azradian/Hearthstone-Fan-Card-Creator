@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df8652c82a30686469beba49dfe07aea, type: 3}
+  m_Name: Go'el
+  m_EditorClassIdentifier: 
+  cardName: Go'el
+  cardDescription: He may be retired but he's still a badass!
+  cardArt: {fileID: 21300000, guid: fd9b1099ab32f7d4f93cccfccfd16053, type: 3}
+  manaCost: 10
+  attack: 10
+  health: 10
